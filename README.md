@@ -2,7 +2,7 @@
 
 Submitted by: Yadisa Belliard
 
-Wordle Pt. 1 is an app that ... [TODO] 
+Wordle Pt. 1 is an app that ... 
 - The goal is to complete a partially finished version of the game Wordle.
 - Players have a limited number of chances to guess a secret word.
 - Clues are provided with each guess, indicating which letters are included in the word and their positions.
