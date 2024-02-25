@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-https://github.com/YadiBelly/IOS_WordleApp/assets/ 
+(https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/2077561d-05f2-468a-9c71-3c99e9a8bad0)
 
 Created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
