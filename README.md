@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![wordle Part1](https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/e663a7d9-99f3-4f69-87d8-1ade7c7c4858](https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/3fbd7715-d502-4a62-b762-a1f78c66cb3d))
+[wordle Part1(https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/e663a7d9-99f3-4f69-87d8-1ade7c7c4858](https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/3fbd7715-d502-4a62-b762-a1f78c66cb3d))
 
 Created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
