@@ -29,7 +29,10 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-![wordle Part1](https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/3fbd7715-d502-4a62-b762-a1f78c66cb3d)
+
+[(https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/7489bed8-ed75-4716-91c0-82af01891596)](https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/7489bed8-ed75-4716-91c0-82af01891596)
+
+(https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/3fbd7715-d502-4a62-b762-a1f78c66cb3d)
 
 Created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
