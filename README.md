@@ -85,9 +85,11 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+
+
 ## Video Walkthrough
 
-![Kapture 2024-02-25 at 16 52 54](https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/969acfe5-e405-4785-973f-cd4d54612045)
+https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/36523d86-bc19-40fd-95cd-0001ecf49ced
 
 Created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
