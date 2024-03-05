@@ -89,7 +89,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/36523d86-bc19-40fd-95cd-0001ecf49ced
+[https://github.com/YadiBelly/IOS_WordleApp/assets/93412709/36523d86-bc19-40fd-95cd-0001ecf49ced](https://github.com/YadiBelly/IOS_WordleApp/issues/2#issue-2168120374)
 
 Created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
